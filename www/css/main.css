@@ -1,0 +1,128 @@
+body{
+    font: 12px/18px "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, Verdana, sans-serif;
+    padding: 0;
+    margin: 0;
+   
+}
+
+h1,h2,h3,h4,h5
+{
+    color: #454545;
+    font-weight: 200;
+    font-family: 'Segoe UI',Tahoma,Helvetica,Sans-Serif;
+    margin: -0.1em 0 -0.3em;
+}
+h1{
+    font-size: 40px;
+    line-height: 50px;
+    margin: 0.7em 0 0.3em;
+}
+h2{
+    font-size: 32px;
+    line-height: 40px;
+}
+h3{
+    font-size: 24px;
+    line-height: 32px;
+}
+h4{
+    font-size: 20px;
+    line-height: 24px;
+}
+h5
+{
+    font-size: 16px;
+    line-height: 20px;
+}
+
+p{
+    
+}
+.main-p{
+    font-size:larger;
+    padding: 10px 50px;
+    width:80%;
+}
+
+
+/*****************************/
+/* HEADER */
+/*****************************/
+.header{
+    padding:0;
+    margin: 0;
+        background: #ededf0;
+
+}
+.logo{
+    padding:20px 30px 0;
+}
+.top-menu{
+    background: #2a2a2a;
+}
+
+.hor-ul{
+
+}
+
+.hor-ul li{
+    margin: 0 0 0 -.93em;
+    list-style-type: none;
+    margin: 0;
+    display: -moz-inline-stack;
+    display: inline-block;
+    zoom: 1;
+    padding: 0;
+}
+
+.hor-ul a{
+    color: #d1d1d1;
+    text-decoration: none;
+}
+.hor-ul a:visited{
+    color: #d1d1f1;
+}
+.hor-ul a:hover{
+    color: #fff;
+
+}
+.menu-elem:hover{
+    background: #4a4a4a;
+}
+.menu-elem{
+    padding: 6px 10px;
+    vertical-align: bottom;
+}
+.main-block{
+    padding: 0 100px;
+}
+
+/*****************************/
+/* main blocks */
+/*****************************/
+
+.main-first-block{
+    position: static;
+    padding: 0 10px;
+    margin: 0 auto;
+    max-width: 980px;
+    background: #fff;
+    
+    
+}
+.img-right{
+    float:right;
+        position: relative;
+        z-index: 1;
+}
+.top-block{
+    max-width: 600px;
+
+}
+.strip{
+    height:5px;
+    background-color: #3a3a3a;
+    z-index: 999;
+    position: relative
+
+}
