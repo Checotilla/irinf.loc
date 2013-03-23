@@ -2,7 +2,8 @@ body{
     font: 12px/18px "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, Verdana, sans-serif;
     padding: 0;
     margin: 0;
-   
+    color: #3a3a3a;
+
 }
 
 h1,h2,h3,h4,h5
@@ -18,12 +19,12 @@ h1{
     margin: 0.7em 0 0.3em;
 }
 h2{
-    font-size: 32px;
-    line-height: 40px;
+    font-size: 36px;
+    line-height: 44px;
 }
 h3{
-    font-size: 24px;
-    line-height: 32px;
+    font-size: 28px;
+    line-height: 36px;
 }
 h4{
     font-size: 20px;
@@ -36,14 +37,47 @@ h5
 }
 
 p{
-    
+
 }
 .main-p{
     font-size:larger;
     padding: 10px 50px;
     width:80%;
 }
+strong{
+    font-weight: normal;
+    color: #000;
+}
 
+
+.strip-gray{
+    height:5px;
+    background-color: #3a3a3a;
+    z-index: 999;
+    position: relative
+
+}
+.strip-colored{
+    height:10px;
+    background-color: #990099;
+    z-index: 999;
+    position: relative
+
+}
+.strip-gray2{
+    height:12px;
+    background-color: #3a3a3a;
+    z-index: 999;
+    position: relative
+
+}
+.strip-colored{
+    height:7px;
+    background-color: #990099;
+    z-index: 999;
+    position: relative
+
+}
 
 /*****************************/
 /* HEADER */
@@ -51,7 +85,7 @@ p{
 .header{
     padding:0;
     margin: 0;
-        background: #ededf0;
+    background: #ededf0;
 
 }
 .logo{
@@ -98,31 +132,71 @@ p{
 }
 
 /*****************************/
-/* main blocks */
+/* main-page blocks */
 /*****************************/
 
 .main-first-block{
     position: static;
-    padding: 0 10px;
+    padding: 30px 10px;
     margin: 0 auto;
     max-width: 980px;
     background: #fff;
-    
-    
+
+
+}
+.img-left{
+    float:left;
+    position: relative;
+    z-index: 1;
+    margin: 50px;
 }
 .img-right{
     float:right;
-        position: relative;
-        z-index: 1;
+    position: relative;
+    z-index: 1;
 }
 .top-block{
     max-width: 600px;
 
 }
-.strip{
-    height:5px;
-    background-color: #3a3a3a;
-    z-index: 999;
-    position: relative
+
+.main-second-block{
+    position: static;
+    padding: 0 10px;
+    margin: 0 auto;
+    max-width: 980px;
+    background: #fff;
 
 }
+
+/*****************************/
+/* social */
+/*****************************/
+.social{
+    position: static;
+    background: #42668c;
+    text-align: center;
+    padding: 20px;
+
+}
+.social-in{
+    background: #d3d3d3;
+    height: 140px;
+    max-width: 980px;
+    margin: 0 auto;
+}
+
+.social-img{
+    padding: 20px 10px 20px 100px;
+}
+.vk-block{
+    font-size: 28px;
+    color: #333;
+    width: 100%;
+    text-align: left;
+    padding-left:5%;
+
+}
+
+
+
