@@ -5,7 +5,7 @@
     </head>
     <body>
 <?php include "html/b_header.php"; ?>
-<?php include "html/b_first-main.php"; ?>
+<?php //include "html/b_first-main.php"; ?>
 
         <div class="strip-gray"></div>
         <div class="strip-colored"></div>
