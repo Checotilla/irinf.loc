@@ -48,6 +48,18 @@
                             </li>
                         </ul>
                     </td>
+                    <td>
+                        <h5>Свяжитесь с нами</h5>
+                        <ul>
+                            <li>
+                                <span class="phone">+7 927 282-17-22</span>
+                            </li>
+                            <li>
+                                <a href="mailto:mail@irinf.ru"><span class="phone">mail@irinf.ru</span></a> 
+                                <br/> <a href="/contacts">воспользоваться формой отправки</a>
+                            </li>
+                        </ul>
+                    </td>
                     <td class="gap">
                     </td>
                 </tr>

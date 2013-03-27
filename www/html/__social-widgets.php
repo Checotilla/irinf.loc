@@ -1,3 +1,12 @@
+<script type="text/javascript" src="//vk.com/js/api/openapi.js?84"></script>
+<script type="text/javascript">VK.init({apiId: 3516341, onlyWidgets: true});</script>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js">
+    {
+        lang: 'ru'
+    }
+</script>﻿
+
+<!-- HEADWRE - MAIN--->
 <div class="share-sn" id="vk">
     <!-- VK BUTTON -->
     <div id="vk_like"></div>

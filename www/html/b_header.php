@@ -1,9 +1,9 @@
 ﻿<div class="header">
     <div class="page-width">
         <div class="logo">
-
-            <img src="img/logo.png"/>
-
+            <a href="/">
+            <img src="img/logo.png" alt="Институт региональной информатизации - логотип"/>
+            </a>
             <!--
             <script language="JavaScript">
             <!--
