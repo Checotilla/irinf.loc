@@ -7,7 +7,7 @@ body{
 div{
     padding: 0;
     margin: 0;
-    /*border: red 1px solid;*/
+    border: cornflowerblue 1px solid;
 }
 
 h1,h2,h3,h4,h5
@@ -154,7 +154,7 @@ strong{
 }
 
 /*****************************/
-/* main-page blocks */
+/* main-first-block */
 /*****************************/
 
 .main-first-block{
@@ -165,19 +165,40 @@ strong{
 .top-block{
     margin: 20px;
 }
-.img-left{
-    float:left;
-    position: relative;
-    z-index: 1;
-    margin: 50px;
-}
 .img-right{
     margin: 0 50px;
     float:right;
     position: relative;
     z-index: 1;
 }
+/*****************************/
+/* main-second-block */
+/*****************************/
+
+.main-second-block{
+    position: static;
+    margin: 0 auto;
+    background: #3b3b3b;
+    color: #d3d3d3;
+}
+.main-second-block h2, .main-second-block h3, .main-second-block h4{
+    position: static;
+    margin: 0 auto;
+    background: #3b3b3b;
+    color: #d3d3d3;
+}
+.main-second-block strong, .main-second-block a{
+    color: #fff;
+}
+
 .top-block{
+    margin: 20px;
+}
+.img-left{
+    float:left;
+    position: relative;
+    z-index: 1;
+    margin: 50px;
 }
 /*****************************/
 /* social */
