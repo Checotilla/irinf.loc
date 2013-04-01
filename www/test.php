@@ -93,21 +93,21 @@
                 </div>
             </div>
         </div>
+
+        <div class="strip-colored7"></div>
+        <div class="strip-black5"></div>
         
         <div class="social">
             <div class="page-width">
-                <table class="social-table" border="1">
+                <table class="social-table">
                     <tbody>
                         <tr>
-                            <td class="gap"></td>
                             <td>
-                                <p class="social-header">Мы&nbsp;ВКонтакте</p>
-                                <p>Оставайтесь с нами на связи всегда и везде</p>
+                                <p class="social-header">Поделитесь ссылкой в социальных сетях</p>
+                                <p>Расскажите друзьям и родным об этом сайте</p>                            
                             </td>
-                            <td class="gap"></td>
                             <td class="share-block">
-                                <p class="social-header">Поделиться ссылкой в социальных сетях</p>
-                                <p>Расскажите друзьям и родным об этом сайте</p>
+                                <div class="social-icons">
                                 <a href="#" tittle="Поделиться ссылкой ВКонтакте">
                                     <img class="social-icon" alt="Поделиться ссылкой ВКонтакте" src="img/icon47-vk.png" onmouseover="this.src='img/icon47-vk-colored.png'" onmouseout="this.src='img/icon47-vk.png'" />
                                 </a>
@@ -126,6 +126,7 @@
                                 <a href="#" tittle="Поделиться ссылкой в LinkedIn">
                                     <img class="social-icon" alt="Поделиться ссылкой в LinkedIn" src="img/icon47-in.png" onmouseover="this.src='img/icon47-in-colored.png'" onmouseout="this.src='img/icon47-in.png'" />
                                 </a>
+                                    </div>
                             </td>
                             <td class="gap"></td>
                         </tr>
@@ -133,14 +134,14 @@
                 </table>
             </div>
         </div>
+        <div class="strip-colored7"></div>
+        <div class="strip-black5"></div>
         
         <div class="footer">
             <div class="page-width">
             <table class="footer-links">
                     <tbody>
                         <tr>
-                            <td class="gap">
-                            </td>
                             <td>
                                 <h5>ИРИнф</h5>
                                 <ul>
@@ -191,14 +192,16 @@
                                     </li>
                                     <li>
                                         <a href="mailto:mail@irinf.ru"><span class="phone">mail@irinf.ru</span></a> 
-                                        <br/> <a href="/contacts">воспользоваться формой отправки</a>
+                                        <br/><a href="/contacts" class="mail-form">воспользоваться формой отправки</a>
                                     </li>
                                 </ul>
                             </td>
-                            <td class="gap"></td>
                         </tr>
                     </tbody>
                 </table>
+                <div class="copyright">
+                                <p>&copy; ООО &laquo;Институт региональной информатизации&raquo;, г.&nbspАстрахань <?php echo date("Y"); ?></p>
+                </div>
             </div>
         </div>
     </body>
