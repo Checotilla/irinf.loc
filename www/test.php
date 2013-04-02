@@ -55,13 +55,13 @@
                 </div>
             </div>
         </div>
-        
+
         <div class="main-first-block">
             <div class="page-width">
                 <div class="img-right">
                     <img src="img/lamp.png" alt="технологии института региональной информатизации на благо Вашего бизнеса"/>
                 </div>            
-                <div class="top-block">
+                <div class="top-block-first">
                     <h2>Технологии на благо бизнеса</h2>
                     <p class="main-p">
                         Хотите вложить cредства в развитие своего бизнеса? 
@@ -98,45 +98,42 @@
         <div class="main-second-block">
             <div class="page-width">
                 <div class="img-left">
-                    <img src="img/qriteria_img.png" alt="Система оценки качества сервиса КРитерия.ру"/>
+                    <img src="img/qriteria.png" alt="Система оценки качества сервиса КРитерия.ру"/>
                 </div>            
-                <div class="top-block">
-                    <h2>Система оценки качеcтва QRiteria.ru</h2>
+                <div class="top-block-second">
+<h2>Система оценки качеcтва QRiteria.ru</h2>
+<p>Тебе не&nbsp;понравилось (или понравилось) обслуживание в&nbsp;каком-то магазине? Или салоне? 
+Или парикмахерской? Или где-то еще? </p>
+<p>А&nbsp;может быть не&nbsp;понравились цены? Или нек понравился ассортимент? </p>
+<p>Или у&nbsp;тебя есть предложение для владельцев?</p>
+<h3>Всего 3&nbsp;простых шага:</h3>
+<ol>
+<li>
+<h4>Запусти приложение для распознавания QR-кодов на&nbsp;телефоне</h4>
+<p>Существует <a href="http://qriteria.ru/qr-apps" target="_blanc">множество приложений для распознавания QR-кодов</a> (в&nbsp;том числе и&nbsp;бесплатных) практически для любой современной платформы.</p>
+</li>
+<li>
+<h4>Распознай QR&nbsp;код</h4>
+<p>С&nbsp;помощью любого QR-сканера распознай код на&nbsp;витрине посещенного магазина и&nbsp;перейди по&nbsp;ссылке.</p>
+</li>
+<li>
+<h4>Проголосуй</h4>
+<p>На&nbsp;специальной мобильной интернет-странице ставь правдивые оценки! Все анонимно.</p>
+</li>
+
+                    </ol>
                     <p class="main-p">
-                        Хотите вложить cредства в развитие своего бизнеса? 
-                        <br/>
-                        <strong>Мы предлагаем подумать над вложением в технологии. </strong>
-                        <br/>
-                        В Ваши собственные технологии! 
-                        <br/>
-                        И если вы выбрали правильные цели - вложения обязательно оправдают себя. А мы готовы немного помочь Вам в этом.
                     </p>
                     <p>
 
                     </p>
-
-                    <h3>Всего 3 важных принципа:</h3>
-                    <ol>
-                        <li>
-                            <h4>Любые технологии должны работать и зарабатывать</h4>
-                            <p>Каждое действие должно оказывать полезное влияние на конечный продукт - прибыль!</p>
-                        </li>
-                        <li>
-                            <h4>Технологии для результата, а не для процесса</h4>
-                            <p>Не нужно изобретать ради изобретения, не нужно внедрять технологии ради внедрения. Нужно наметить цель технологического внедрения и строить проект основываясь исключительно на этой цели.</p>
-                        </li>
-                        <li>
-                            <h4>Инвестиции должны оправдать себя</h4>
-                            <p>Каждый вложенный в технологии рубль должен окупить себя и дать прибыль.</p>
-                        </li>
-                    </ol>
                 </div>
             </div>
         </div>
-        
-        
+
+
         <div class="strip-black5"></div>
-        
+
         <div class="social">
             <div class="page-width">
                 <table class="social-table">
@@ -148,25 +145,25 @@
                             </td>
                             <td class="share-block">
                                 <div class="social-icons">
-                                <a href="#" tittle="Поделиться ссылкой ВКонтакте">
-                                    <img class="social-icon" alt="Поделиться ссылкой ВКонтакте" src="img/icon47-vk.png" onmouseover="this.src='img/icon47-vk-colored.png'" onmouseout="this.src='img/icon47-vk.png'" />
-                                </a>
-                                <a href="#" tittle="Поделиться ссылкой в Facebook">
-                                    <img class="social-icon" alt="Поделиться ссылкой в Facebook" src="img/icon47-fb.png" onmouseover="this.src='img/icon47-fb-colored.png'" onmouseout="this.src='img/icon47-fb.png'" />
-                                </a>
-                                <a href="#"  tittle="Поделиться ссылкой в Twitter">
-                                    <img class="social-icon" alt="Поделиться ссылкой в Twitter" src="img/icon47-tw.png" onmouseover="this.src='img/icon47-tw-colored.png'" onmouseout="this.src='img/icon47-tw.png'" />
-                                </a>
-                                <a href="#" tittle="Поделиться ссылкой в Google+">
-                                    <img class="social-icon" alt="Поделиться ссылкой в Google+" src="img/icon47-gp.png" onmouseover="this.src='img/icon47-gp-colored.png'" onmouseout="this.src='img/icon47-gp.png'" />
-                                </a>
-                                <a href="#" tittle="Поделиться ссылкой в Одноклассниках">
-                                    <img class="social-icon" alt="Поделиться ссылкой в Одноклассниках" src="img/icon47-ox.png" onmouseover="this.src='img/icon47-ox-colored.png'" onmouseout="this.src='img/icon47-ox.png'" />
-                                </a>
-                                <a href="#" tittle="Поделиться ссылкой в LinkedIn">
-                                    <img class="social-icon" alt="Поделиться ссылкой в LinkedIn" src="img/icon47-in.png" onmouseover="this.src='img/icon47-in-colored.png'" onmouseout="this.src='img/icon47-in.png'" />
-                                </a>
-                                    </div>
+                                    <a href="#" tittle="Поделиться ссылкой ВКонтакте">
+                                        <img class="social-icon" alt="Поделиться ссылкой ВКонтакте" src="img/icon47-vk.png" onmouseover="this.src = 'img/icon47-vk-colored.png'" onmouseout="this.src = 'img/icon47-vk.png'" />
+                                    </a>
+                                    <a href="#" tittle="Поделиться ссылкой в Facebook">
+                                        <img class="social-icon" alt="Поделиться ссылкой в Facebook" src="img/icon47-fb.png" onmouseover="this.src = 'img/icon47-fb-colored.png'" onmouseout="this.src = 'img/icon47-fb.png'" />
+                                    </a>
+                                    <a href="#"  tittle="Поделиться ссылкой в Twitter">
+                                        <img class="social-icon" alt="Поделиться ссылкой в Twitter" src="img/icon47-tw.png" onmouseover="this.src = 'img/icon47-tw-colored.png'" onmouseout="this.src = 'img/icon47-tw.png'" />
+                                    </a>
+                                    <a href="#" tittle="Поделиться ссылкой в Google+">
+                                        <img class="social-icon" alt="Поделиться ссылкой в Google+" src="img/icon47-gp.png" onmouseover="this.src = 'img/icon47-gp-colored.png'" onmouseout="this.src = 'img/icon47-gp.png'" />
+                                    </a>
+                                    <a href="#" tittle="Поделиться ссылкой в Одноклассниках">
+                                        <img class="social-icon" alt="Поделиться ссылкой в Одноклассниках" src="img/icon47-ox.png" onmouseover="this.src = 'img/icon47-ox-colored.png'" onmouseout="this.src = 'img/icon47-ox.png'" />
+                                    </a>
+                                    <a href="#" tittle="Поделиться ссылкой в LinkedIn">
+                                        <img class="social-icon" alt="Поделиться ссылкой в LinkedIn" src="img/icon47-in.png" onmouseover="this.src = 'img/icon47-in-colored.png'" onmouseout="this.src = 'img/icon47-in.png'" />
+                                    </a>
+                                </div>
                             </td>
                             <td class="gap"></td>
                         </tr>
@@ -176,10 +173,10 @@
         </div>
 
         <div class="strip-black5"></div>
-        
+
         <div class="footer">
             <div class="page-width">
-            <table class="footer-links">
+                <table class="footer-links">
                     <tbody>
                         <tr>
                             <td>
@@ -240,7 +237,7 @@
                     </tbody>
                 </table>
                 <div class="copyright">
-                                <p>&copy; ООО &laquo;Институт региональной информатизации&raquo;, г.&nbspАстрахань <?php echo date("Y"); ?></p>
+                    <p>&copy; ООО &laquo;Институт региональной информатизации&raquo;, г.&nbspАстрахань <?php echo date("Y"); ?></p>
                 </div>
             </div>
         </div>
